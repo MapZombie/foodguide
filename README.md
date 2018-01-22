@@ -1,6 +1,7 @@
 # foodguide
 A food guide with a complete balanced meal plan - based on data from the Government of Canada.
 
+<a href="http://flask-env.nbpsqmikje.us-west-2.elasticbeanstalk.com/">DEMO</a> 
 
 Instructions:
 1.  Select your Gender and Age.
